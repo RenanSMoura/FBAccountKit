@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/8173d0489975a85abf012bfd5a9fd4c3e2c89b09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56abca154a85235e8090df5fc2f67774721fd0ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/662f58d3a0f7a2b19a19cead3398ef849ff99cac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cb258191ec4454391cd39c6e0abcad4f866f131/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_078237abed576c140781bb44b0864432279cd688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/a4efd0f135dde231cfbe7cd65250dfa94eea0cc3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb11c63288ffb4771674352370755e4825f2201f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40d865ce6956561cc9443654bc1e6021632ea05e">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_75a6dd5c42ec29210f8c583bde2708f9a1b6577b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/610f831980d36bc2bc2b90c8d2b1e991e839c4be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e3b8ecc558c6deeb90eb3934c1c715128ab26dcd">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eba52c8f930060000bef41968a3d4839b602b774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/4616f534634de8d9b2dfd3b9201bc0fc6acef139/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab7c5c6acff5498edeac081d508920b2d4b4c993/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/0268096031bbfb7530b97b3c72a08793cae5903c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_408ea6b600b408ea0bd7f6e5f7120e469634b330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ee5792fc27088e2bced755a5ddd41a7a445e605/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/754c530929e498eb2f9e80eda6d1eee736979f01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5affdd44cb6f117a71d90128e5c751101c1fb626/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/2bb2737fb0e621d14f9ca5f5a0444392481b551f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbf24a53a3482d8ade399a32f74549769bd17fc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/84b5543064cb7c4d7f0cb2edeca230cae1e63e3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bdc6b50013bf81a3b8f4ab6f1629732b3684ad1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1a500ad5e27b69af86dcf5b976c8d710ba88a12c">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b6352ad52fd2e936a7b8f15ba1961676d970b80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/4ef7857d734d86b42b88deb703cc5c3242142a73/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b05b6000de7ccd2307b91b433b3dc8e4e28e5783/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb51602b79e32d4a4b015d088266ba078eaf27a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbd57719417936441183a00cbfceed50c93d1571/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/e8525ec2c2b060eed19dbc433538d28d462c7cf4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75ca5cf088ef2cd855bb2e2e03df976eba587288/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_971d70c0499d39a6c63a271fc29046cf6a910b08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_06b5f3c7939409e8311dad95e7476c0e909fba0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/6d8370e72c5c0455adc5527d89c7f0aafb907210/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b41bb147f5b3d16f9307a23865b7bc369a92f11e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/a983196562bd698a9ef987f26b39a4dc37fed24e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca1b66c4213e787877afaafc440e441be1bcd4f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.8.9/d1ef356357623cfbeb99f5eb64d65a1bf5c75191/libphonenumber-8.8.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1ef356357623cfbeb99f5eb64d65a1bf5c75191">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/libphonenumber-8.8.9_943b906591270e4b52095f7e35b40715745d823d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_877975efbddf39fd10cfd48af656b4a63a925f95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/56e9843306d46c729ee96f19aa063cd28cad5dbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="821200fa3e07f93d0ae66e4a5917db8bac69dfe1">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_193ff542d055d16270001c06c33014ab9aece710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.3_2f6c35ccb20fad92aa94ad47bec7043fd2b81783/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/bd41c1ad8860e407566f97527ac009bbd5a6ac1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3140dae2b2b083bca7a4aba5414ec6c5d53ac5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/dbb9f7f5ca566eb723c54706ceccfb880dd55b56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0b7ab27fde93ddc46933a96b02cc00c84581e7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/c62e41dab7645824d6c3ae8e8fb194fd9904dbaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_065af2444663cb53613f9ec43e6a0939723acd94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/f972dc6f0dca53ad50aff1686561db2492dfafdf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8fb648e3321f9556ac5b36485b0028f455350c4a">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8cad707cdafeed137c5acbb8c1b4644f1237cdcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_9f1ba0cc660d40fb06cc7abbb0e8434d2df18849/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/ef724572f40a0978f063a27432141a7d02923c96/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0ea7f3303a8e9f7d9879a2331185b347bbd1e97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/66d3f3fd22804accf7117b1c62c20cdb7134df81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2e9a7e9b2e0a3fed1d641e397b268e1d61f672c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a01bf4b8cec739a99f2698568d8d6fe7893e1bb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/e06a74242f0e123a307c672803ac180dc7ac5d94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd85d70803fddd296db5d9db62acd5dc2b0da113/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_0991b3fb7b79ef3c30e65bbb2ca900aa05a029aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/5d78f59abd47ca9d69366b999ae0ec71621ec9e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c97027427db42bd49e671ddcb62b1ee6ac9311e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/8c666429e791134734e3b1c17c7427f267be8d25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2839138d24d59255f6b5163969f5eeb5a911a566/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/79aa88212786d534ee9d17a76f0ea8de93be0459/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6156c3ec03efe1624feafe58f1371d598411f800/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.0.2_cbb9d34669c500a0a6a40e74444be6d4a722399f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.android/build-cache/0dddef8d2e3eba6fd1bdff37eed93f6d2c98a9ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4052b6ce35e459e830a1ea850a3b2eb1cf47b2ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_4597b7e80511dd1449248d7993b4338a4ceab70a/classes.dex" />
+    </item>
+
+</items>

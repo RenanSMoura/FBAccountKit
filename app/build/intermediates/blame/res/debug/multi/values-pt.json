@@ -1,0 +1,1928 @@
+[
+    {
+        "outputFile": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 238,
+                    "endColumn": 19,
+                    "endOffset": 9105
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 238,
+                        "endColumn": 19,
+                        "endOffset": 9055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 9110,
+                    "endColumn": 119,
+                    "endOffset": 9225
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 119,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 9230,
+                    "endColumn": 105,
+                    "endOffset": 9331
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 105,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 9336,
+                    "endColumn": 106,
+                    "endOffset": 9438
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 106,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 9443,
+                    "endColumn": 88,
+                    "endOffset": 9527
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 88,
+                        "endOffset": 522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 9532,
+                    "endColumn": 100,
+                    "endOffset": 9628
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 100,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 9633,
+                    "endColumn": 117,
+                    "endOffset": 9746
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 117,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 9751,
+                    "endColumn": 82,
+                    "endOffset": 9829
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 82,
+                        "endOffset": 824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 9834,
+                    "endColumn": 79,
+                    "endOffset": 9909
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 79,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 9914,
+                    "endColumn": 86,
+                    "endOffset": 9996
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 86,
+                        "endOffset": 991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 10001,
+                    "endColumn": 106,
+                    "endOffset": 10103
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 996,
+                        "endColumn": 106,
+                        "endOffset": 1098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 10108,
+                    "endColumn": 111,
+                    "endOffset": 10215
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1103,
+                        "endColumn": 111,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 10220,
+                    "endColumn": 101,
+                    "endOffset": 10317
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 101,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 10322,
+                    "endColumn": 107,
+                    "endOffset": 10425
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 107,
+                        "endOffset": 1420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 10430,
+                    "endColumn": 106,
+                    "endOffset": 10532
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1425,
+                        "endColumn": 106,
+                        "endOffset": 1527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 10537,
+                    "endColumn": 109,
+                    "endOffset": 10642
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1532,
+                        "endColumn": 109,
+                        "endOffset": 1637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 10647,
+                    "endColumn": 161,
+                    "endOffset": 10804
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1642,
+                        "endColumn": 161,
+                        "endOffset": 1799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 10809,
+                    "endColumn": 99,
+                    "endOffset": 10904
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1804,
+                        "endColumn": 99,
+                        "endOffset": 1899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 10909,
+                    "endColumn": 94,
+                    "endOffset": 10999
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 9060,
+                        "endColumn": 94,
+                        "endOffset": 9150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 11004,
+                    "endColumn": 80,
+                    "endOffset": 11080
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 9155,
+                        "endColumn": 80,
+                        "endOffset": 9231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 11085,
+                    "endColumn": 82,
+                    "endOffset": 11163
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 9236,
+                        "endColumn": 82,
+                        "endOffset": 9314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 11168,
+                    "endColumn": 84,
+                    "endOffset": 11248
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 9319,
+                        "endColumn": 84,
+                        "endOffset": 9399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 11253,
+                    "endColumn": 85,
+                    "endOffset": 11334
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 9404,
+                        "endColumn": 85,
+                        "endOffset": 9485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 11339,
+                    "endColumn": 78,
+                    "endOffset": 11413
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 4,
+                        "startOffset": 9490,
+                        "endColumn": 78,
+                        "endOffset": 9564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 11418,
+                    "endColumn": 80,
+                    "endOffset": 11494
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 9569,
+                        "endColumn": 80,
+                        "endOffset": 9645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 11499,
+                    "endColumn": 79,
+                    "endOffset": 11574
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 246,
+                        "startColumn": 4,
+                        "startOffset": 9650,
+                        "endColumn": 79,
+                        "endOffset": 9725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 11579,
+                    "endColumn": 110,
+                    "endOffset": 11685
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 4,
+                        "startOffset": 9730,
+                        "endColumn": 110,
+                        "endOffset": 9836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 11690,
+                    "endColumn": 98,
+                    "endOffset": 11784
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 9841,
+                        "endColumn": 98,
+                        "endOffset": 9935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 11789,
+                    "endColumn": 78,
+                    "endOffset": 11863
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 4,
+                        "startOffset": 9940,
+                        "endColumn": 78,
+                        "endOffset": 10014
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 11868,
+                    "endColumn": 104,
+                    "endOffset": 11968
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 10019,
+                        "endColumn": 104,
+                        "endOffset": 10119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 11973,
+                    "endColumn": 132,
+                    "endOffset": 12101
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 10124,
+                        "endColumn": 132,
+                        "endOffset": 10252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 12106,
+                    "endColumn": 157,
+                    "endOffset": 12259
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 10257,
+                        "endColumn": 157,
+                        "endOffset": 10410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 12264,
+                    "endColumn": 112,
+                    "endOffset": 12372
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 253,
+                        "startColumn": 4,
+                        "startOffset": 10415,
+                        "endColumn": 112,
+                        "endOffset": 10523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 12377,
+                    "endColumn": 144,
+                    "endOffset": 12517
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 254,
+                        "startColumn": 4,
+                        "startOffset": 10528,
+                        "endColumn": 144,
+                        "endOffset": 10668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 12522,
+                    "endColumn": 80,
+                    "endOffset": 12598
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 255,
+                        "startColumn": 4,
+                        "startOffset": 10673,
+                        "endColumn": 80,
+                        "endOffset": 10749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 12603,
+                    "endColumn": 94,
+                    "endOffset": 12693
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 256,
+                        "startColumn": 4,
+                        "startOffset": 10754,
+                        "endColumn": 94,
+                        "endOffset": 10844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 12698,
+                    "endColumn": 80,
+                    "endOffset": 12774
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 257,
+                        "startColumn": 4,
+                        "startOffset": 10849,
+                        "endColumn": 80,
+                        "endOffset": 10925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 12779,
+                    "endColumn": 86,
+                    "endOffset": 12861
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 258,
+                        "startColumn": 4,
+                        "startOffset": 10930,
+                        "endColumn": 86,
+                        "endOffset": 11012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 12866,
+                    "endColumn": 109,
+                    "endOffset": 12971
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 4,
+                        "startOffset": 11017,
+                        "endColumn": 109,
+                        "endOffset": 11122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 12976,
+                    "endColumn": 246,
+                    "endOffset": 13218
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 4,
+                        "startOffset": 11127,
+                        "endColumn": 246,
+                        "endOffset": 11369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 13223,
+                    "endColumn": 335,
+                    "endOffset": 13554
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 261,
+                        "startColumn": 4,
+                        "startOffset": 11374,
+                        "endColumn": 335,
+                        "endOffset": 11705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 13559,
+                    "endColumn": 391,
+                    "endOffset": 13946
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 11710,
+                        "endColumn": 391,
+                        "endOffset": 12097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 13951,
+                    "endColumn": 491,
+                    "endOffset": 14438
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 12102,
+                        "endColumn": 491,
+                        "endOffset": 12589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 14443,
+                    "endColumn": 427,
+                    "endOffset": 14866
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 12594,
+                        "endColumn": 427,
+                        "endOffset": 13017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 14871,
+                    "endColumn": 338,
+                    "endOffset": 15205
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 13022,
+                        "endColumn": 338,
+                        "endOffset": 13356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 15210,
+                    "endColumn": 106,
+                    "endOffset": 15312
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 4,
+                        "startOffset": 13361,
+                        "endColumn": 106,
+                        "endOffset": 13463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 15317,
+                    "endColumn": 101,
+                    "endOffset": 15414
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 267,
+                        "startColumn": 4,
+                        "startOffset": 13468,
+                        "endColumn": 101,
+                        "endOffset": 13565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 15419,
+                    "endColumn": 117,
+                    "endOffset": 15532
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 13570,
+                        "endColumn": 117,
+                        "endOffset": 13683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 15537,
+                    "endColumn": 116,
+                    "endOffset": 15649
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 269,
+                        "startColumn": 4,
+                        "startOffset": 13688,
+                        "endColumn": 116,
+                        "endOffset": 13800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 15654,
+                    "endColumn": 102,
+                    "endOffset": 15752
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 4,
+                        "startOffset": 13805,
+                        "endColumn": 102,
+                        "endOffset": 13903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 15757,
+                    "endColumn": 321,
+                    "endOffset": 16074
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 13908,
+                        "endColumn": 321,
+                        "endOffset": 14225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 16079,
+                    "endColumn": 106,
+                    "endOffset": 16181
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 14230,
+                        "endColumn": 106,
+                        "endOffset": 14332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 16186,
+                    "endColumn": 93,
+                    "endOffset": 16275
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 273,
+                        "startColumn": 4,
+                        "startOffset": 14337,
+                        "endColumn": 93,
+                        "endOffset": 14426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 16280,
+                    "endColumn": 124,
+                    "endOffset": 16400
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 274,
+                        "startColumn": 4,
+                        "startOffset": 14431,
+                        "endColumn": 124,
+                        "endOffset": 14551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 16405,
+                    "endColumn": 112,
+                    "endOffset": 16513
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 14556,
+                        "endColumn": 112,
+                        "endOffset": 14664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 16518,
+                    "endColumn": 120,
+                    "endOffset": 16634
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 14669,
+                        "endColumn": 120,
+                        "endOffset": 14785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 16639,
+                    "endColumn": 115,
+                    "endOffset": 16750
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 277,
+                        "startColumn": 4,
+                        "startOffset": 14790,
+                        "endColumn": 115,
+                        "endOffset": 14901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 16755,
+                    "endColumn": 80,
+                    "endOffset": 16831
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 278,
+                        "startColumn": 4,
+                        "startOffset": 14906,
+                        "endColumn": 80,
+                        "endOffset": 14982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 16836,
+                    "endColumn": 117,
+                    "endOffset": 16949
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 14987,
+                        "endColumn": 117,
+                        "endOffset": 15100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 16954,
+                    "endColumn": 113,
+                    "endOffset": 17063
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 280,
+                        "startColumn": 4,
+                        "startOffset": 15105,
+                        "endColumn": 113,
+                        "endOffset": 15214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 17068,
+                    "endColumn": 105,
+                    "endOffset": 17169
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 15219,
+                        "endColumn": 105,
+                        "endOffset": 15320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 17174,
+                    "endColumn": 114,
+                    "endOffset": 17284
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 15325,
+                        "endColumn": 114,
+                        "endOffset": 15435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 17289,
+                    "endColumn": 384,
+                    "endOffset": 17669
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 283,
+                        "startColumn": 4,
+                        "startOffset": 15440,
+                        "endColumn": 384,
+                        "endOffset": 15820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 17674,
+                    "endColumn": 106,
+                    "endOffset": 17776
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 284,
+                        "startColumn": 4,
+                        "startOffset": 15825,
+                        "endColumn": 106,
+                        "endOffset": 15927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 17781,
+                    "endColumn": 123,
+                    "endOffset": 17900
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 4,
+                        "startOffset": 15932,
+                        "endColumn": 123,
+                        "endOffset": 16051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 17905,
+                    "endColumn": 109,
+                    "endOffset": 18010
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 16056,
+                        "endColumn": 109,
+                        "endOffset": 16161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 18015,
+                    "endColumn": 110,
+                    "endOffset": 18121
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 4,
+                        "startOffset": 16166,
+                        "endColumn": 110,
+                        "endOffset": 16272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 18126,
+                    "endColumn": 95,
+                    "endOffset": 18217
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 288,
+                        "startColumn": 4,
+                        "startOffset": 16277,
+                        "endColumn": 95,
+                        "endOffset": 16368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 18222,
+                    "endColumn": 103,
+                    "endOffset": 18321
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 289,
+                        "startColumn": 4,
+                        "startOffset": 16373,
+                        "endColumn": 103,
+                        "endOffset": 16472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 18326,
+                    "endColumn": 109,
+                    "endOffset": 18431
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 4,
+                        "startOffset": 16477,
+                        "endColumn": 109,
+                        "endOffset": 16582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 18436,
+                    "endColumn": 79,
+                    "endOffset": 18511
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 291,
+                        "startColumn": 4,
+                        "startOffset": 16587,
+                        "endColumn": 79,
+                        "endOffset": 16662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 18516,
+                    "endColumn": 85,
+                    "endOffset": 18597
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 16667,
+                        "endColumn": 85,
+                        "endOffset": 16748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 18602,
+                    "endColumn": 99,
+                    "endOffset": 18697
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 16753,
+                        "endColumn": 99,
+                        "endOffset": 16848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 18702,
+                    "endColumn": 146,
+                    "endOffset": 18844
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 16853,
+                        "endColumn": 146,
+                        "endOffset": 16995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 18849,
+                    "endColumn": 98,
+                    "endOffset": 18943
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 4,
+                        "startOffset": 17000,
+                        "endColumn": 98,
+                        "endOffset": 17094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 18948,
+                    "endColumn": 130,
+                    "endOffset": 19074
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 4,
+                        "startOffset": 17099,
+                        "endColumn": 130,
+                        "endOffset": 17225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 19079,
+                    "endColumn": 156,
+                    "endOffset": 19231
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 156,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 19236,
+                    "endColumn": 124,
+                    "endOffset": 19356
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 124,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 19361,
+                    "endColumn": 138,
+                    "endOffset": 19495
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 138,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 19500,
+                    "endColumn": 110,
+                    "endOffset": 19606
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 110,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 19611,
+                    "endColumn": 82,
+                    "endOffset": 19689
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 587,
+                        "endColumn": 82,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 19694,
+                    "endColumn": 86,
+                    "endOffset": 19776
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 86,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 19781,
+                    "endColumn": 79,
+                    "endOffset": 19856
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 79,
+                        "endOffset": 832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 19861,
+                    "endColumn": 90,
+                    "endOffset": 19947
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 837,
+                        "endColumn": 90,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 19952,
+                    "endColumn": 88,
+                    "endOffset": 20036
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 88,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 20041,
+                    "endColumn": 115,
+                    "endOffset": 20152
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 115,
+                        "endOffset": 1128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 20157,
+                    "endColumn": 108,
+                    "endOffset": 20261
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1133,
+                        "endColumn": 108,
+                        "endOffset": 1237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 20266,
+                    "endColumn": 87,
+                    "endOffset": 20349
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1242,
+                        "endColumn": 87,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 20354,
+                    "endColumn": 87,
+                    "endOffset": 20437
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 87,
+                        "endOffset": 1413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 20442,
+                    "endColumn": 101,
+                    "endOffset": 20539
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1418,
+                        "endColumn": 101,
+                        "endOffset": 1515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 20544,
+                    "endColumn": 120,
+                    "endOffset": 20660
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1520,
+                        "endColumn": 120,
+                        "endOffset": 1636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 20665,
+                    "endColumn": 81,
+                    "endOffset": 20742
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1641,
+                        "endColumn": 81,
+                        "endOffset": 1718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 20747,
+                    "endColumn": 88,
+                    "endOffset": 20831
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1723,
+                        "endColumn": 88,
+                        "endOffset": 1807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 20836,
+                    "endColumn": 195,
+                    "endOffset": 21027
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1812,
+                        "endColumn": 195,
+                        "endOffset": 2003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 21032,
+                    "endColumn": 93,
+                    "endOffset": 21121
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2008,
+                        "endColumn": 93,
+                        "endOffset": 2097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 21126,
+                    "endColumn": 101,
+                    "endOffset": 21223
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2102,
+                        "endColumn": 101,
+                        "endOffset": 2199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 21228,
+                    "endColumn": 114,
+                    "endOffset": 21338
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2204,
+                        "endColumn": 114,
+                        "endOffset": 2314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 21343,
+                    "endColumn": 104,
+                    "endOffset": 21443
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2319,
+                        "endColumn": 104,
+                        "endOffset": 2419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 21448,
+                    "endColumn": 166,
+                    "endOffset": 21610
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2424,
+                        "endColumn": 166,
+                        "endOffset": 2586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 21615,
+                    "endColumn": 84,
+                    "endOffset": 21695
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1904,
+                        "endColumn": 84,
+                        "endOffset": 1984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 21700,
+                    "endColumn": 100,
+                    "endOffset": 21796
+                },
+                "from": {
+                    "file": "/Users/renan/.android/build-cache/84b5543064cb7c4d7f0cb2edeca230cae1e63e3f/output/res/values-pt/values-pt.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

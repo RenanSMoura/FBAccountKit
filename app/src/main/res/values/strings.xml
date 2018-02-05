@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Surf Connect</string>
+    <string name="app_name">SurfConnect</string>
     <string name="login_email_label">Login with Email</string>
     <string name="login_phone_label">Login with Phone Number</string>
     <string name="account">Account</string>
@@ -7,4 +7,6 @@
     <string name="phone_label">Phone Number</string>
     <string name="email_label">Email</string>
     <string name="logout_label">Log Out</string>
+    <string name="FACEBOOK_APP_ID">180952545969167</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">[ACCOUNT_KIT_CLIENT_TOKEN]</string>
 </resources>

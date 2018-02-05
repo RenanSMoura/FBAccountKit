@@ -1,0 +1,7 @@
+#Mon Feb 05 18:24:50 BRST 2018
+base.0=/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_75a6dd5c42ec29210f8c583bde2708f9a1b6577b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a01bf4b8cec739a99f2698568d8d6fe7893e1bb9/classes.dex
+base.1=/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a01bf4b8cec739a99f2698568d8d6fe7893e1bb9
+file.0=/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_75a6dd5c42ec29210f8c583bde2708f9a1b6577b/classes.dex
