@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Renan\\.android\\build-cache\\db765f6a06229332f2099c218d951b93cf65991b\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

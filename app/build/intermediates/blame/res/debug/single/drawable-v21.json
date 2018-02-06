@@ -1,42 +1,42 @@
 [
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/com_accountkit_input_cursor.xml",
-        "source": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/drawable-v21/com_accountkit_input_cursor.xml"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Renan\\.android\\build-cache\\db765f6a06229332f2099c218d951b93cf65991b\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
-        "source": "/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/res/drawable-v21/design_password_eye.xml"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
-        "source": "/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/res/drawable-v21/avd_hide_password.xml"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Renan\\.android\\build-cache\\db765f6a06229332f2099c218d951b93cf65991b\\output\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\com_accountkit_progress_complete.xml",
+        "source": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\drawable-v21\\com_accountkit_progress_complete.xml"
     },
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/com_accountkit_progress_complete.xml",
-        "source": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/drawable-v21/com_accountkit_progress_complete.xml"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Renan\\.android\\build-cache\\db765f6a06229332f2099c218d951b93cf65991b\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
-        "source": "/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Renan\\.android\\build-cache\\db765f6a06229332f2099c218d951b93cf65991b\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/Users/renan/.android/build-cache/84b5543064cb7c4d7f0cb2edeca230cae1e63e3f/output/res/drawable-v21/notification_action_background.xml"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\com_accountkit_input_cursor.xml",
+        "source": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\drawable-v21\\com_accountkit_input_cursor.xml"
     },
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
-        "source": "/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/res/drawable-v21/avd_show_password.xml"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Renan\\.android\\build-cache\\77f3ff4091a2881a4690c8d4ed5c6a20e95021c3\\output\\res\\drawable-v21\\notification_action_background.xml"
     }
 ]

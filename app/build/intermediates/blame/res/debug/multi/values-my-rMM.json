@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml",
+        "outputFile": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 9536
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 9615
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 239,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 9677
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 9744
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 9810
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 242,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 9877
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 243,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 9939
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 244,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 10007
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 245,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 10070
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 246,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 10126
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 247,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 10218
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 248,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 10294
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 249,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 10356
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 250,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 10436
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 10556
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 10697
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 253,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 10787
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 254,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 10915
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 255,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 10975
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 256,
                         "startColumn": 4,
@@ -374,7 +374,7 @@
                     "endOffset": 11047
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 257,
                         "startColumn": 4,
@@ -393,7 +393,7 @@
                     "endOffset": 11112
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 258,
                         "startColumn": 4,
@@ -412,7 +412,7 @@
                     "endOffset": 11186
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 259,
                         "startColumn": 4,
@@ -431,7 +431,7 @@
                     "endOffset": 11281
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 260,
                         "startColumn": 4,
@@ -451,7 +451,7 @@
                     "endOffset": 11549
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 261,
                         "startColumn": 4,
@@ -472,7 +472,7 @@
                     "endOffset": 11903
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 266,
                         "startColumn": 4,
@@ -493,7 +493,7 @@
                     "endOffset": 12327
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 272,
                         "startColumn": 4,
@@ -514,7 +514,7 @@
                     "endOffset": 12856
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 279,
                         "startColumn": 4,
@@ -535,7 +535,7 @@
                     "endOffset": 13315
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 287,
                         "startColumn": 4,
@@ -556,7 +556,7 @@
                     "endOffset": 13688
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 294,
                         "startColumn": 4,
@@ -576,7 +576,7 @@
                     "endOffset": 13766
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 300,
                         "startColumn": 4,
@@ -595,7 +595,7 @@
                     "endOffset": 13844
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 301,
                         "startColumn": 4,
@@ -615,7 +615,7 @@
                     "endOffset": 13943
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 302,
                         "startColumn": 4,
@@ -635,7 +635,7 @@
                     "endOffset": 14025
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 305,
                         "startColumn": 4,
@@ -654,7 +654,7 @@
                     "endOffset": 14113
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 306,
                         "startColumn": 4,
@@ -674,7 +674,7 @@
                     "endOffset": 14398
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 307,
                         "startColumn": 4,
@@ -694,7 +694,7 @@
                     "endOffset": 14483
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 310,
                         "startColumn": 4,
@@ -713,7 +713,7 @@
                     "endOffset": 14561
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 311,
                         "startColumn": 4,
@@ -732,7 +732,7 @@
                     "endOffset": 14670
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 312,
                         "startColumn": 4,
@@ -751,7 +751,7 @@
                     "endOffset": 14767
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 313,
                         "startColumn": 4,
@@ -770,7 +770,7 @@
                     "endOffset": 14882
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 314,
                         "startColumn": 4,
@@ -789,7 +789,7 @@
                     "endOffset": 14982
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 315,
                         "startColumn": 4,
@@ -808,7 +808,7 @@
                     "endOffset": 15052
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 316,
                         "startColumn": 4,
@@ -827,7 +827,7 @@
                     "endOffset": 15152
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 317,
                         "startColumn": 4,
@@ -846,7 +846,7 @@
                     "endOffset": 15252
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 318,
                         "startColumn": 4,
@@ -865,7 +865,7 @@
                     "endOffset": 15339
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 319,
                         "startColumn": 4,
@@ -884,7 +884,7 @@
                     "endOffset": 15439
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 320,
                         "startColumn": 4,
@@ -904,7 +904,7 @@
                     "endOffset": 15798
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 321,
                         "startColumn": 4,
@@ -924,7 +924,7 @@
                     "endOffset": 15886
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 324,
                         "startColumn": 4,
@@ -943,7 +943,7 @@
                     "endOffset": 15969
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 325,
                         "startColumn": 4,
@@ -962,7 +962,7 @@
                     "endOffset": 16048
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 326,
                         "startColumn": 4,
@@ -981,7 +981,7 @@
                     "endOffset": 16124
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 327,
                         "startColumn": 4,
@@ -1000,7 +1000,7 @@
                     "endOffset": 16191
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 328,
                         "startColumn": 4,
@@ -1019,7 +1019,7 @@
                     "endOffset": 16261
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 329,
                         "startColumn": 4,
@@ -1038,7 +1038,7 @@
                     "endOffset": 16339
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 330,
                         "startColumn": 4,
@@ -1058,7 +1058,7 @@
                     "endOffset": 16463
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 331,
                         "startColumn": 4,
@@ -1078,7 +1078,7 @@
                     "endOffset": 16542
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 334,
                         "startColumn": 4,
@@ -1097,7 +1097,7 @@
                     "endOffset": 16650
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-my-rMM/values-my-rMM.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-my-rMM\\values-my-rMM.xml",
                     "position": {
                         "startLine": 335,
                         "startColumn": 4,

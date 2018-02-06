@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.facebook.android:facebook-applinks-4.30.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/6d8370e72c5c0455adc5527d89c7f0aafb907210/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/6d8370e72c5c0455adc5527d89c7f0aafb907210/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/c4846eec702ae010961a5ce227243e02bfe6e749/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/c4846eec702ae010961a5ce227243e02bfe6e749/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

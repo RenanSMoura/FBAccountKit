@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+        "outputFile": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 7748
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 7843
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 7936
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 8036
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 8118
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 8215
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 8323
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 8399
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 8475
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 8553
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 8649
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 8745
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 8840
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 8937
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 9032
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 9132
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 9282
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 9376
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 9460
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 239,
                         "startColumn": 4,
@@ -374,7 +374,7 @@
                     "endOffset": 9536
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -393,7 +393,7 @@
                     "endOffset": 9613
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -412,7 +412,7 @@
                     "endOffset": 9691
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 242,
                         "startColumn": 4,
@@ -431,7 +431,7 @@
                     "endOffset": 9770
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 243,
                         "startColumn": 4,
@@ -450,7 +450,7 @@
                     "endOffset": 9845
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 244,
                         "startColumn": 4,
@@ -469,7 +469,7 @@
                     "endOffset": 9922
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 245,
                         "startColumn": 4,
@@ -488,7 +488,7 @@
                     "endOffset": 9998
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 246,
                         "startColumn": 4,
@@ -507,7 +507,7 @@
                     "endOffset": 10071
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 247,
                         "startColumn": 4,
@@ -526,7 +526,7 @@
                     "endOffset": 10165
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 248,
                         "startColumn": 4,
@@ -545,7 +545,7 @@
                     "endOffset": 10250
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 249,
                         "startColumn": 4,
@@ -564,7 +564,7 @@
                     "endOffset": 10325
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 250,
                         "startColumn": 4,
@@ -583,7 +583,7 @@
                     "endOffset": 10415
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -602,7 +602,7 @@
                     "endOffset": 10523
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 10655
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 253,
                         "startColumn": 4,
@@ -640,7 +640,7 @@
                     "endOffset": 10756
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 254,
                         "startColumn": 4,
@@ -659,7 +659,7 @@
                     "endOffset": 10866
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 255,
                         "startColumn": 4,
@@ -678,7 +678,7 @@
                     "endOffset": 10942
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 256,
                         "startColumn": 4,
@@ -697,7 +697,7 @@
                     "endOffset": 11025
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 257,
                         "startColumn": 4,
@@ -716,7 +716,7 @@
                     "endOffset": 11102
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 258,
                         "startColumn": 4,
@@ -735,7 +735,7 @@
                     "endOffset": 11181
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 259,
                         "startColumn": 4,
@@ -754,7 +754,7 @@
                     "endOffset": 11265
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 260,
                         "startColumn": 4,
@@ -773,7 +773,7 @@
                     "endOffset": 11464
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 261,
                         "startColumn": 4,
@@ -792,7 +792,7 @@
                     "endOffset": 11716
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 262,
                         "startColumn": 4,
@@ -811,7 +811,7 @@
                     "endOffset": 12006
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 263,
                         "startColumn": 4,
@@ -830,7 +830,7 @@
                     "endOffset": 12351
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 264,
                         "startColumn": 4,
@@ -849,7 +849,7 @@
                     "endOffset": 12658
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 265,
                         "startColumn": 4,
@@ -868,7 +868,7 @@
                     "endOffset": 12912
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 266,
                         "startColumn": 4,
@@ -887,7 +887,7 @@
                     "endOffset": 13002
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 267,
                         "startColumn": 4,
@@ -906,7 +906,7 @@
                     "endOffset": 13092
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 268,
                         "startColumn": 4,
@@ -925,7 +925,7 @@
                     "endOffset": 13182
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 269,
                         "startColumn": 4,
@@ -944,7 +944,7 @@
                     "endOffset": 13281
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 270,
                         "startColumn": 4,
@@ -963,7 +963,7 @@
                     "endOffset": 13374
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 271,
                         "startColumn": 4,
@@ -982,7 +982,7 @@
                     "endOffset": 13567
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 272,
                         "startColumn": 4,
@@ -1001,7 +1001,7 @@
                     "endOffset": 13656
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 273,
                         "startColumn": 4,
@@ -1020,7 +1020,7 @@
                     "endOffset": 13744
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 274,
                         "startColumn": 4,
@@ -1039,7 +1039,7 @@
                     "endOffset": 13839
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 275,
                         "startColumn": 4,
@@ -1058,7 +1058,7 @@
                     "endOffset": 13931
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 276,
                         "startColumn": 4,
@@ -1077,7 +1077,7 @@
                     "endOffset": 14017
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 277,
                         "startColumn": 4,
@@ -1096,7 +1096,7 @@
                     "endOffset": 14119
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 278,
                         "startColumn": 4,
@@ -1115,7 +1115,7 @@
                     "endOffset": 14196
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 279,
                         "startColumn": 4,
@@ -1134,7 +1134,7 @@
                     "endOffset": 14290
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 280,
                         "startColumn": 4,
@@ -1153,7 +1153,7 @@
                     "endOffset": 14380
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 281,
                         "startColumn": 4,
@@ -1172,7 +1172,7 @@
                     "endOffset": 14471
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 282,
                         "startColumn": 4,
@@ -1191,7 +1191,7 @@
                     "endOffset": 14564
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 283,
                         "startColumn": 4,
@@ -1210,7 +1210,7 @@
                     "endOffset": 14790
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 284,
                         "startColumn": 4,
@@ -1229,7 +1229,7 @@
                     "endOffset": 14875
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 285,
                         "startColumn": 4,
@@ -1248,7 +1248,7 @@
                     "endOffset": 14990
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 286,
                         "startColumn": 4,
@@ -1267,7 +1267,7 @@
                     "endOffset": 15079
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 287,
                         "startColumn": 4,
@@ -1286,7 +1286,7 @@
                     "endOffset": 15160
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 288,
                         "startColumn": 4,
@@ -1305,7 +1305,7 @@
                     "endOffset": 15247
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 289,
                         "startColumn": 4,
@@ -1324,7 +1324,7 @@
                     "endOffset": 15331
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 290,
                         "startColumn": 4,
@@ -1343,7 +1343,7 @@
                     "endOffset": 15417
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 291,
                         "startColumn": 4,
@@ -1362,7 +1362,7 @@
                     "endOffset": 15493
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 292,
                         "startColumn": 4,
@@ -1381,7 +1381,7 @@
                     "endOffset": 15572
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 293,
                         "startColumn": 4,
@@ -1400,7 +1400,7 @@
                     "endOffset": 15653
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 294,
                         "startColumn": 4,
@@ -1419,7 +1419,7 @@
                     "endOffset": 15763
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 295,
                         "startColumn": 4,
@@ -1438,7 +1438,7 @@
                     "endOffset": 15847
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 296,
                         "startColumn": 4,
@@ -1457,7 +1457,7 @@
                     "endOffset": 15950
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 297,
                         "startColumn": 4,
@@ -1476,7 +1476,7 @@
                     "endOffset": 16086
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1495,7 +1495,7 @@
                     "endOffset": 16187
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1514,7 +1514,7 @@
                     "endOffset": 16298
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1533,7 +1533,7 @@
                     "endOffset": 16407
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1552,7 +1552,7 @@
                     "endOffset": 16487
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1571,7 +1571,7 @@
                     "endOffset": 16569
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1590,7 +1590,7 @@
                     "endOffset": 16645
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1609,7 +1609,7 @@
                     "endOffset": 16730
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1628,7 +1628,7 @@
                     "endOffset": 16815
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1647,7 +1647,7 @@
                     "endOffset": 16922
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1666,7 +1666,7 @@
                     "endOffset": 17026
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1685,7 +1685,7 @@
                     "endOffset": 17112
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1704,7 +1704,7 @@
                     "endOffset": 17198
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1723,7 +1723,7 @@
                     "endOffset": 17289
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1742,7 +1742,7 @@
                     "endOffset": 17398
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1761,7 +1761,7 @@
                     "endOffset": 17476
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1780,7 +1780,7 @@
                     "endOffset": 17555
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1799,7 +1799,7 @@
                     "endOffset": 17678
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1818,7 +1818,7 @@
                     "endOffset": 17771
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1837,7 +1837,7 @@
                     "endOffset": 17866
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1856,7 +1856,7 @@
                     "endOffset": 17972
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1875,7 +1875,7 @@
                     "endOffset": 18066
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1894,7 +1894,7 @@
                     "endOffset": 18166
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1913,7 +1913,7 @@
                     "endOffset": 18269
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -1932,7 +1932,7 @@
                     "endOffset": 18429
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -1951,7 +1951,7 @@
                     "endOffset": 18546
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -1970,7 +1970,7 @@
                     "endOffset": 18650
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -1989,7 +1989,7 @@
                     "endOffset": 18816
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -2008,7 +2008,7 @@
                     "endOffset": 18934
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -2027,7 +2027,7 @@
                     "endOffset": 19064
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -2046,7 +2046,7 @@
                     "endOffset": 19188
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -2065,7 +2065,7 @@
                     "endOffset": 19350
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/66d3f3fd22804accf7117b1c62c20cdb7134df81/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\5b65fc11ab7d05ecadb7ed91b8eb1b968d0a9638\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -2084,7 +2084,7 @@
                     "endOffset": 19519
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -2103,7 +2103,7 @@
                     "endOffset": 19622
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -2122,7 +2122,7 @@
                     "endOffset": 19782
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 0,
@@ -2141,7 +2141,7 @@
                     "endOffset": 19899
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 0,
@@ -2160,7 +2160,7 @@
                     "endOffset": 20060
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 0,
@@ -2179,7 +2179,7 @@
                     "endOffset": 20198
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
@@ -2198,7 +2198,7 @@
                     "endOffset": 20284
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
@@ -2217,7 +2217,7 @@
                     "endOffset": 20371
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
@@ -2236,7 +2236,7 @@
                     "endOffset": 20474
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-zh-rTW/values.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 0,
@@ -2255,7 +2255,7 @@
                     "endOffset": 20552
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -2274,7 +2274,7 @@
                     "endOffset": 20653
                 },
                 "from": {
-                    "file": "/Users/renan/.android/build-cache/84b5543064cb7c4d7f0cb2edeca230cae1e63e3f/output/res/values-zh-rTW/values-zh-rTW.xml",
+                    "file": "C:\\Users\\Renan\\.android\\build-cache\\77f3ff4091a2881a4690c8d4ed5c6a20e95021c3\\output\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi/logo_surf_connect.png",
-        "source": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/res/drawable-mdpi/logo_surf_connect.png"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo_surf_connect.png",
+        "source": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\src\\main\\res\\drawable-mdpi\\logo_surf_connect.png"
     },
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi/bg_wave.png",
-        "source": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/res/drawable-mdpi/bg_wave.png"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_profile_empty.png",
+        "source": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\src\\main\\res\\drawable-mdpi\\icon_profile_empty.png"
     },
     {
-        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_profile_empty.png",
-        "source": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/res/drawable-mdpi/icon_profile_empty.png"
+        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bg_wave.png",
+        "source": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\src\\main\\res\\drawable-mdpi\\bg_wave.png"
     }
 ]

@@ -1,9 +1,17 @@
 package com.example.udacity.surfconnect;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
+
+import com.facebook.accountkit.Account;
+import com.facebook.accountkit.AccountKit;
+import com.facebook.accountkit.AccountKitCallback;
+import com.facebook.accountkit.AccountKitError;
 import com.google.i18n.phonenumbers.NumberParseException;
 import com.google.i18n.phonenumbers.PhoneNumberUtil;
 import com.google.i18n.phonenumbers.Phonenumber;
@@ -15,6 +23,7 @@ public class AccountActivity extends AppCompatActivity {
     TextView id;
     TextView infoLabel;
     TextView info;
+    Button logoutButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,10 +31,44 @@ public class AccountActivity extends AppCompatActivity {
         setContentView(R.layout.activity_account);
         FontHelper.setCustomTypeface(findViewById(R.id.view_root));
 
-        id = (TextView) findViewById(R.id.id);
-        infoLabel = (TextView) findViewById(R.id.info_label);
-        info = (TextView) findViewById(R.id.info);
+        id = findViewById(R.id.id);
+        infoLabel =  findViewById(R.id.info_label);
+        info =  findViewById(R.id.info);
 
+        logoutButton = findViewById(R.id.logout_button);
+        logoutButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                onLogout(view);
+            }
+        });
+
+        AccountKit.getCurrentAccount(new AccountKitCallback<Account>() {
+            @Override
+            public void onSuccess(Account account) {
+                String accoutKitId = account.getId();
+                id.setText(accoutKitId);
+                if(account.getPhoneNumber() != null){
+                    String formattedPhoneNumber = formatPhoneNumber(account.getPhoneNumber().toString());
+                    info.setText(formattedPhoneNumber);
+                    infoLabel.setText(R.string.phone_label);
+                }else{
+                    String emailString = account.getEmail();
+                    info.setText(emailString);
+                    infoLabel.setText(R.string.email_label);
+                }
+            }
+
+            @Override
+            public void onError(AccountKitError accountKitError) {
+                Toast.makeText(AccountActivity.this, accountKitError.getErrorType().getCode(), Toast.LENGTH_SHORT).show();
+            }
+        });
+    }
+
+    public void onLogout(View view){
+        AccountKit.logOut();
+        launchLoginActivity();
     }
 
     private void launchLoginActivity() {

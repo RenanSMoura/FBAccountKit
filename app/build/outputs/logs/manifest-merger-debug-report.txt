@@ -1,216 +1,263 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-34:12
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:2:1-56:12
 	package
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:4:5-46
-		INJECTED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:4:5-46
+		INJECTED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:6:5-67
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:8:5-32:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/renan/.android/build-cache/754c530929e498eb2f9e80eda6d1eee736979f01/output/AndroidManifest.xml:9:5-20
-MERGED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:28:5-53:19
-MERGED from [com.android.support:design:25.3.1] /Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:25.3.1] /Users/renan/.android/build-cache/bd41c1ad8860e407566f97527ac009bbd5a6ac1a/output/AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/renan/.android/build-cache/919624da4b7f72be7d6ded085a667d009646da5d/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/renan/.android/build-cache/b59dea8de5743092025310b84551b530312aa796/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/renan/.android/build-cache/49c58a42c6e5991053caa19b525356db84338645/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/renan/.android/build-cache/4ef7857d734d86b42b88deb703cc5c3242142a73/output/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/renan/.android/build-cache/66d3f3fd22804accf7117b1c62c20cdb7134df81/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/renan/.android/build-cache/170aadf283e5c3417f151f0a38dcbc0baed37fc4/output/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/renan/.android/build-cache/081406e23aa5bd606f35b65fc1922008dd23d13b/output/AndroidManifest.xml:5:5-20
-MERGED from [com.facebook.android:facebook-android-sdk:4.30.0] /Users/renan/.android/build-cache/a983196562bd698a9ef987f26b39a4dc37fed24e/output/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.30.0] /Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.30.0] /Users/renan/.android/build-cache/e8525ec2c2b060eed19dbc433538d28d462c7cf4/output/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:4.30.0] /Users/renan/.android/build-cache/610f831980d36bc2bc2b90c8d2b1e991e839c4be/output/AndroidManifest.xml:28:5-34:19
-MERGED from [com.facebook.android:facebook-places:4.30.0] /Users/renan/.android/build-cache/56e9843306d46c729ee96f19aa063cd28cad5dbc/output/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.30.0] /Users/renan/.android/build-cache/6d8370e72c5c0455adc5527d89c7f0aafb907210/output/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.30.0] /Users/renan/.android/build-cache/ef724572f40a0978f063a27432141a7d02923c96/output/AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-core:4.30.0] /Users/renan/.android/build-cache/f972dc6f0dca53ad50aff1686561db2492dfafdf/output/AndroidManifest.xml:28:5-43:19
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:8:5-54:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Renan\.android\build-cache\337183b265121a1aa4defe7fac42d3ee067d35d4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:28:5-53:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Renan\.android\build-cache\db765f6a06229332f2099c218d951b93cf65991b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Renan\.android\build-cache\dcfed5fd640916f4d5e65e1e33bd1f0effbeacd0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Renan\.android\build-cache\38f8b37d2d6de175c4a1599051cd41bea89bc295\output\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Renan\.android\build-cache\2502f4c9d8e5ccc308d5b0056eaf2261ccfedd1d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\Renan\.android\build-cache\6618619895a75a3773f970dd526ab26607f9a5f3\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Renan\.android\build-cache\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\output\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Renan\.android\build-cache\8b575d509d5cdc1dbe78a414e6ecffb5e4aec512\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Renan\.android\build-cache\081549d4dfa6ba486ed7a8603b1c1bc57059b941\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Renan\.android\build-cache\5b65fc11ab7d05ecadb7ed91b8eb1b968d0a9638\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Renan\.android\build-cache\309dc159e9f899db5c01298c671049fa07e08327\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Renan\.android\build-cache\95356e6147c6fd3d44a5deb70a45092e41569447\output\AndroidManifest.xml:5:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.30.0] C:\Users\Renan\.android\build-cache\d19d2466276679d78ae4ae48149217371414acd6\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\Renan\.android\build-cache\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\Renan\.android\build-cache\902ab1074a2f06584e830ceed6071da10d5225e0\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Renan\.android\build-cache\9c5780ba2f6316f90f359c0e5ad6d8755e0b584f\output\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-places:4.30.0] C:\Users\Renan\.android\build-cache\d70858aba158b9a7e8c8c3fc1dbaa2a711efc42c\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.30.0] C:\Users\Renan\.android\build-cache\c4846eec702ae010961a5ce227243e02bfe6e749\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.30.0] C:\Users\Renan\.android\build-cache\bd0da557fb6241a9c70a3d4c51ee685fa8edbb04\output\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Renan\.android\build-cache\81bfe9e8790bdf6dc3d7d9ae284c02b5a64bcb83\output\AndroidManifest.xml:28:5-43:19
 	android:label
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:11:9-41
 	android:supportsRtl
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:13:9-35
 	android:roundIcon
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:12:9-54
 	android:allowBackup
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:9:9-36
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:9:9-36
 	android:icon
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:10:9-43
 	android:theme
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.example.udacity.surfconnect.LoginActivity
-ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:16:9-25:20
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:16:9-25:20
 	android:screenOrientation
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:18:13-49
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:18:13-49
 	android:theme
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:19:13-51
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:19:13-51
 	android:name
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:17:13-73
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:17:13-73
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:23:27-74
 activity#com.example.udacity.surfconnect.AccountActivity
-ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:27:9-30:52
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:27:9-30:52
 	android:screenOrientation
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:30:13-49
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:30:13-49
 	android:label
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:29:13-44
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:29:13-44
 	android:name
-		ADDED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:28:13-75
-uses-sdk
-INJECTED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/renan/.android/build-cache/754c530929e498eb2f9e80eda6d1eee736979f01/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:design:25.3.1] /Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/renan/.android/build-cache/dbb9f7f5ca566eb723c54706ceccfb880dd55b56/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] /Users/renan/.android/build-cache/bd41c1ad8860e407566f97527ac009bbd5a6ac1a/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:11.8.0] /Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] /Users/renan/.android/build-cache/5d78f59abd47ca9d69366b999ae0ec71621ec9e2/output/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] /Users/renan/.android/build-cache/919624da4b7f72be7d6ded085a667d009646da5d/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] /Users/renan/.android/build-cache/4616f534634de8d9b2dfd3b9201bc0fc6acef139/output/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] /Users/renan/.android/build-cache/b59dea8de5743092025310b84551b530312aa796/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/renan/.android/build-cache/49c58a42c6e5991053caa19b525356db84338645/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/renan/.android/build-cache/4ef7857d734d86b42b88deb703cc5c3242142a73/output/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/renan/.android/build-cache/66d3f3fd22804accf7117b1c62c20cdb7134df81/output/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/renan/.android/build-cache/170aadf283e5c3417f151f0a38dcbc0baed37fc4/output/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/renan/.android/build-cache/081406e23aa5bd606f35b65fc1922008dd23d13b/output/AndroidManifest.xml:4:5-43
-MERGED from [com.facebook.android:facebook-android-sdk:4.30.0] /Users/renan/.android/build-cache/a983196562bd698a9ef987f26b39a4dc37fed24e/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.30.0] /Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.30.0] /Users/renan/.android/build-cache/e8525ec2c2b060eed19dbc433538d28d462c7cf4/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.30.0] /Users/renan/.android/build-cache/610f831980d36bc2bc2b90c8d2b1e991e839c4be/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:support-v4:27.0.2] /Users/renan/.android/build-cache/8173d0489975a85abf012bfd5a9fd4c3e2c89b09/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /Users/renan/.android/build-cache/e06a74242f0e123a307c672803ac180dc7ac5d94/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] /Users/renan/.android/build-cache/a4efd0f135dde231cfbe7cd65250dfa94eea0cc3/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/renan/.android/build-cache/0268096031bbfb7530b97b3c72a08793cae5903c/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/renan/.android/build-cache/c62e41dab7645824d6c3ae8e8fb194fd9904dbaa/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] /Users/renan/.android/build-cache/0dddef8d2e3eba6fd1bdff37eed93f6d2c98a9ba/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] /Users/renan/.android/build-cache/79aa88212786d534ee9d17a76f0ea8de93be0459/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.0.2] /Users/renan/.android/build-cache/2bb2737fb0e621d14f9ca5f5a0444392481b551f/output/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.android:facebook-places:4.30.0] /Users/renan/.android/build-cache/56e9843306d46c729ee96f19aa063cd28cad5dbc/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.30.0] /Users/renan/.android/build-cache/6d8370e72c5c0455adc5527d89c7f0aafb907210/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.30.0] /Users/renan/.android/build-cache/ef724572f40a0978f063a27432141a7d02923c96/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.30.0] /Users/renan/.android/build-cache/f972dc6f0dca53ad50aff1686561db2492dfafdf/output/AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:support-core-utils:27.0.2] /Users/renan/.android/build-cache/8c666429e791134734e3b1c17c7427f267be8d25/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] /Users/renan/.android/build-cache/84b5543064cb7c4d7f0cb2edeca230cae1e63e3f/output/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/renan/.android/build-cache/662f58d3a0f7a2b19a19cead3398ef849ff99cac/output/AndroidManifest.xml:20:5-22:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] /Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/AndroidManifest.xml:23:9-59
-	android:targetSdkVersion
-		INJECTED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:28:13-75
 activity#com.facebook.accountkit.ui.AccountKitActivity
-ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:29:9-34:58
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:31:9-34:45
+MERGED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:29:9-34:58
 	android:label
-		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:31:13-65
+		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:31:13-65
 	android:launchMode
-		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:32:13-43
+		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:32:13-43
 	android:windowSoftInputMode
-		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:34:13-55
+		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:34:13-55
 	android:theme
-		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:33:13-52
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:33:13-49
+		REJECTED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:33:13-52
+	tools:replace
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:34:13-42
 	android:name
-		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:30:13-73
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:32:13-73
 activity#com.facebook.accountkit.ui.AccountKitEmailRedirectActivity
-ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:35:9-38:40
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:35:9-42:20
+MERGED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:35:9-38:40
 	android:exported
-		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:37:13-36
+		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:37:13-36
 	android:noHistory
-		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:38:13-37
+		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:36:13-86
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:35:19-92
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:36:13-41:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:38:17-75
+	android:name
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:39:27-75
+data
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:40:17-74
+	android:scheme
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:40:23-72
+meta-data#com.facebook.accountkit.ApplicationName
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:44:9-45:48
+	android:value
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:44:20-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:46:9-47:55
+	android:value
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:47:13-52
+	android:name
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:46:20-65
+meta-data#com.facebook.accountkit.ClientToken
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:48:9-49:64
+	android:value
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:49:13-61
+	android:name
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:48:20-70
+meta-data#com.facebook.accountkit.FacebookAppEventsEnabled
+ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:50:9-51:36
+	android:value
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:51:13-34
+	android:name
+		ADDED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml:50:20-83
+uses-sdk
+INJECTED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Renan\.android\build-cache\337183b265121a1aa4defe7fac42d3ee067d35d4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Renan\.android\build-cache\db765f6a06229332f2099c218d951b93cf65991b\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Renan\.android\build-cache\05bca3ed1795c4bc31f5ba912d29149cd6deb3c8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Renan\.android\build-cache\dcfed5fd640916f4d5e65e1e33bd1f0effbeacd0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Renan\.android\build-cache\38f8b37d2d6de175c4a1599051cd41bea89bc295\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\Renan\.android\build-cache\39f370b1720b4d435c58538dd19447c6fe2a92b3\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\Renan\.android\build-cache\2502f4c9d8e5ccc308d5b0056eaf2261ccfedd1d\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\Renan\.android\build-cache\69445f24aa6058e3476cf6d116cce90c64fafeb8\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\Renan\.android\build-cache\6618619895a75a3773f970dd526ab26607f9a5f3\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Renan\.android\build-cache\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Renan\.android\build-cache\8b575d509d5cdc1dbe78a414e6ecffb5e4aec512\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Renan\.android\build-cache\081549d4dfa6ba486ed7a8603b1c1bc57059b941\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Renan\.android\build-cache\5b65fc11ab7d05ecadb7ed91b8eb1b968d0a9638\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Renan\.android\build-cache\309dc159e9f899db5c01298c671049fa07e08327\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Renan\.android\build-cache\95356e6147c6fd3d44a5deb70a45092e41569447\output\AndroidManifest.xml:4:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.30.0] C:\Users\Renan\.android\build-cache\d19d2466276679d78ae4ae48149217371414acd6\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\Renan\.android\build-cache\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\Renan\.android\build-cache\902ab1074a2f06584e830ceed6071da10d5225e0\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Renan\.android\build-cache\9c5780ba2f6316f90f359c0e5ad6d8755e0b584f\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Renan\.android\build-cache\fd2f58236e313c930a78d0513ff47cee6e397b32\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Renan\.android\build-cache\0188e21b5f1a7b7e683ec38b2a495539c3c0ef2f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Renan\.android\build-cache\574f40ac9c497147abebaad0386c8644a68ac4ab\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Renan\.android\build-cache\53fa23ee23be735abd8a37f2e6f9734f11518c3c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Renan\.android\build-cache\8751773f239c25ade0acc68debdb056521078f54\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Renan\.android\build-cache\70a092b02b13fd1e84f887db8fcb5e1b03d696a6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Renan\.android\build-cache\c56c4951d1a41a343ad0a616322126c9296b2f9b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Renan\.android\build-cache\c6a17de5caaa03ec339fcb79e16c88d39b7bfd5c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\Renan\.android\build-cache\25dd171712014369f6bcb93d20505bafe143f443\output\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.30.0] C:\Users\Renan\.android\build-cache\d70858aba158b9a7e8c8c3fc1dbaa2a711efc42c\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.30.0] C:\Users\Renan\.android\build-cache\c4846eec702ae010961a5ce227243e02bfe6e749\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.30.0] C:\Users\Renan\.android\build-cache\bd0da557fb6241a9c70a3d4c51ee685fa8edbb04\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Renan\.android\build-cache\81bfe9e8790bdf6dc3d7d9ae284c02b5a64bcb83\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Renan\.android\build-cache\da283413a72afeb655c948a11619841c111a536b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Renan\.android\build-cache\77f3ff4091a2881a4690c8d4ed5c6a20e95021c3\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Renan\.android\build-cache\86619c886a781b8c115b451c35fea12f5bf0078b\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Renan\.android\build-cache\db765f6a06229332f2099c218d951b93cf65991b\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Renan\workspace\FBAccountKit\app\src\main\AndroidManifest.xml
 provider#com.facebook.accountkit.internal.AccountKitInitProvider
-ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:49:9-52:40
+ADDED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:49:9-52:40
 	android:authorities
-		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:51:13-76
+		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:51:13-76
 	android:exported
-		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:52:13-37
+		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:52:13-37
 	android:name
-		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] /Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/AndroidManifest.xml:50:13-83
+		ADDED from [com.facebook.android:account-kit-sdk:4.30.0] C:\Users\Renan\.android\build-cache\dbd347e58881e74cab16a1074aad4a50fb11c5a0\output\AndroidManifest.xml:50:13-83
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] /Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/renan/.android/build-cache/dbb9f7f5ca566eb723c54706ceccfb880dd55b56/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] /Users/renan/.android/build-cache/bd41c1ad8860e407566f97527ac009bbd5a6ac1a/output/AndroidManifest.xml:22:5-24:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\Renan\.android\build-cache\db765f6a06229332f2099c218d951b93cf65991b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Renan\.android\build-cache\05bca3ed1795c4bc31f5ba912d29149cd6deb3c8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Renan\.android\build-cache\dcfed5fd640916f4d5e65e1e33bd1f0effbeacd0\output\AndroidManifest.xml:22:5-24:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] /Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Renan\.android\build-cache\db765f6a06229332f2099c218d951b93cf65991b\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] /Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Renan\.android\build-cache\db765f6a06229332f2099c218d951b93cf65991b\output\AndroidManifest.xml:26:9-47
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/AndroidManifest.xml:23:9-27:75
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Renan\.android\build-cache\38f8b37d2d6de175c4a1599051cd41bea89bc295\output\AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/AndroidManifest.xml:25:13-46
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Renan\.android\build-cache\38f8b37d2d6de175c4a1599051cd41bea89bc295\output\AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/AndroidManifest.xml:26:13-37
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Renan\.android\build-cache\38f8b37d2d6de175c4a1599051cd41bea89bc295\output\AndroidManifest.xml:26:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/AndroidManifest.xml:27:13-72
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Renan\.android\build-cache\38f8b37d2d6de175c4a1599051cd41bea89bc295\output\AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/AndroidManifest.xml:24:13-93
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Renan\.android\build-cache\38f8b37d2d6de175c4a1599051cd41bea89bc295\output\AndroidManifest.xml:24:13-93
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/AndroidManifest.xml:33:9-36:110
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Renan\.android\build-cache\38f8b37d2d6de175c4a1599051cd41bea89bc295\output\AndroidManifest.xml:33:9-36:110
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/AndroidManifest.xml:35:13-36
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Renan\.android\build-cache\38f8b37d2d6de175c4a1599051cd41bea89bc295\output\AndroidManifest.xml:35:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/AndroidManifest.xml:36:13-107
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Renan\.android\build-cache\38f8b37d2d6de175c4a1599051cd41bea89bc295\output\AndroidManifest.xml:36:13-107
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:11.8.0] /Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/AndroidManifest.xml:34:13-89
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\Renan\.android\build-cache\38f8b37d2d6de175c4a1599051cd41bea89bc295\output\AndroidManifest.xml:34:13-89
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Renan\.android\build-cache\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\output\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Renan\.android\build-cache\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\output\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Renan\.android\build-cache\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\output\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Renan\.android\build-cache\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\output\AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/renan/.android/build-cache/66d3f3fd22804accf7117b1c62c20cdb7134df81/output/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Renan\.android\build-cache\5b65fc11ab7d05ecadb7ed91b8eb1b968d0a9638\output\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/renan/.android/build-cache/66d3f3fd22804accf7117b1c62c20cdb7134df81/output/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Renan\.android\build-cache\5b65fc11ab7d05ecadb7ed91b8eb1b968d0a9638\output\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/renan/.android/build-cache/66d3f3fd22804accf7117b1c62c20cdb7134df81/output/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Renan\.android\build-cache\5b65fc11ab7d05ecadb7ed91b8eb1b968d0a9638\output\AndroidManifest.xml:24:13-58
 activity#com.facebook.FacebookActivity
-ADDED from [com.facebook.android:facebook-common:4.30.0] /Users/renan/.android/build-cache/610f831980d36bc2bc2b90c8d2b1e991e839c4be/output/AndroidManifest.xml:29:9-32:66
+ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Renan\.android\build-cache\9c5780ba2f6316f90f359c0e5ad6d8755e0b584f\output\AndroidManifest.xml:29:9-32:66
 	android:configChanges
-		ADDED from [com.facebook.android:facebook-common:4.30.0] /Users/renan/.android/build-cache/610f831980d36bc2bc2b90c8d2b1e991e839c4be/output/AndroidManifest.xml:31:13-96
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Renan\.android\build-cache\9c5780ba2f6316f90f359c0e5ad6d8755e0b584f\output\AndroidManifest.xml:31:13-96
 	android:theme
-		ADDED from [com.facebook.android:facebook-common:4.30.0] /Users/renan/.android/build-cache/610f831980d36bc2bc2b90c8d2b1e991e839c4be/output/AndroidManifest.xml:32:13-63
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Renan\.android\build-cache\9c5780ba2f6316f90f359c0e5ad6d8755e0b584f\output\AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.30.0] /Users/renan/.android/build-cache/610f831980d36bc2bc2b90c8d2b1e991e839c4be/output/AndroidManifest.xml:30:13-57
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Renan\.android\build-cache\9c5780ba2f6316f90f359c0e5ad6d8755e0b584f\output\AndroidManifest.xml:30:13-57
 activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.30.0] /Users/renan/.android/build-cache/610f831980d36bc2bc2b90c8d2b1e991e839c4be/output/AndroidManifest.xml:33:9-71
+ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Renan\.android\build-cache\9c5780ba2f6316f90f359c0e5ad6d8755e0b584f\output\AndroidManifest.xml:33:9-71
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.30.0] /Users/renan/.android/build-cache/610f831980d36bc2bc2b90c8d2b1e991e839c4be/output/AndroidManifest.xml:33:19-68
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\Renan\.android\build-cache\9c5780ba2f6316f90f359c0e5ad6d8755e0b584f\output\AndroidManifest.xml:33:19-68
 provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.30.0] /Users/renan/.android/build-cache/f972dc6f0dca53ad50aff1686561db2492dfafdf/output/AndroidManifest.xml:39:9-42:40
+ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Renan\.android\build-cache\81bfe9e8790bdf6dc3d7d9ae284c02b5a64bcb83\output\AndroidManifest.xml:39:9-42:40
 	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.30.0] /Users/renan/.android/build-cache/f972dc6f0dca53ad50aff1686561db2492dfafdf/output/AndroidManifest.xml:41:13-72
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Renan\.android\build-cache\81bfe9e8790bdf6dc3d7d9ae284c02b5a64bcb83\output\AndroidManifest.xml:41:13-72
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.30.0] /Users/renan/.android/build-cache/f972dc6f0dca53ad50aff1686561db2492dfafdf/output/AndroidManifest.xml:42:13-37
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Renan\.android\build-cache\81bfe9e8790bdf6dc3d7d9ae284c02b5a64bcb83\output\AndroidManifest.xml:42:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.30.0] /Users/renan/.android/build-cache/f972dc6f0dca53ad50aff1686561db2492dfafdf/output/AndroidManifest.xml:40:13-70
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\Renan\.android\build-cache\81bfe9e8790bdf6dc3d7d9ae284c02b5a64bcb83\output\AndroidManifest.xml:40:13-70
