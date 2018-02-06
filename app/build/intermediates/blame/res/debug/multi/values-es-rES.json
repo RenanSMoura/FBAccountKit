@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
+        "outputFile": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rES/values-es-rES.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 9056
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 9152
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 239,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 9233
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 9316
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 9401
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 242,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 9487
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 243,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 9566
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 244,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 9647
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 245,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 9729
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 246,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 9807
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 247,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 9924
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 248,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 10022
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 249,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 10101
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 250,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 10206
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 10336
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 10492
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 253,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 10605
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 254,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 10748
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 255,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 10829
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 256,
                         "startColumn": 4,
@@ -374,7 +374,7 @@
                     "endOffset": 10927
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 257,
                         "startColumn": 4,
@@ -393,7 +393,7 @@
                     "endOffset": 11008
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 258,
                         "startColumn": 4,
@@ -412,7 +412,7 @@
                     "endOffset": 11107
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 259,
                         "startColumn": 4,
@@ -431,7 +431,7 @@
                     "endOffset": 11213
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 260,
                         "startColumn": 4,
@@ -450,7 +450,7 @@
                     "endOffset": 11464
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 261,
                         "startColumn": 4,
@@ -469,7 +469,7 @@
                     "endOffset": 11794
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 262,
                         "startColumn": 4,
@@ -488,7 +488,7 @@
                     "endOffset": 12188
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 263,
                         "startColumn": 4,
@@ -507,7 +507,7 @@
                     "endOffset": 12687
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 264,
                         "startColumn": 4,
@@ -526,7 +526,7 @@
                     "endOffset": 13122
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 265,
                         "startColumn": 4,
@@ -545,7 +545,7 @@
                     "endOffset": 13478
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 266,
                         "startColumn": 4,
@@ -564,7 +564,7 @@
                     "endOffset": 13586
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 267,
                         "startColumn": 4,
@@ -583,7 +583,7 @@
                     "endOffset": 13690
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 268,
                         "startColumn": 4,
@@ -602,7 +602,7 @@
                     "endOffset": 13836
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 269,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 13966
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 270,
                         "startColumn": 4,
@@ -640,7 +640,7 @@
                     "endOffset": 14081
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 271,
                         "startColumn": 4,
@@ -659,7 +659,7 @@
                     "endOffset": 14443
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 272,
                         "startColumn": 4,
@@ -678,7 +678,7 @@
                     "endOffset": 14566
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 273,
                         "startColumn": 4,
@@ -697,7 +697,7 @@
                     "endOffset": 14669
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 274,
                         "startColumn": 4,
@@ -716,7 +716,7 @@
                     "endOffset": 14799
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 275,
                         "startColumn": 4,
@@ -735,7 +735,7 @@
                     "endOffset": 14927
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 276,
                         "startColumn": 4,
@@ -754,7 +754,7 @@
                     "endOffset": 15058
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 277,
                         "startColumn": 4,
@@ -773,7 +773,7 @@
                     "endOffset": 15176
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 278,
                         "startColumn": 4,
@@ -792,7 +792,7 @@
                     "endOffset": 15259
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 279,
                         "startColumn": 4,
@@ -811,7 +811,7 @@
                     "endOffset": 15378
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 280,
                         "startColumn": 4,
@@ -830,7 +830,7 @@
                     "endOffset": 15493
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 281,
                         "startColumn": 4,
@@ -849,7 +849,7 @@
                     "endOffset": 15598
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 282,
                         "startColumn": 4,
@@ -868,7 +868,7 @@
                     "endOffset": 15710
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 283,
                         "startColumn": 4,
@@ -887,7 +887,7 @@
                     "endOffset": 16131
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 284,
                         "startColumn": 4,
@@ -906,7 +906,7 @@
                     "endOffset": 16238
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 285,
                         "startColumn": 4,
@@ -925,7 +925,7 @@
                     "endOffset": 16360
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 286,
                         "startColumn": 4,
@@ -944,7 +944,7 @@
                     "endOffset": 16474
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 287,
                         "startColumn": 4,
@@ -963,7 +963,7 @@
                     "endOffset": 16583
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 288,
                         "startColumn": 4,
@@ -982,7 +982,7 @@
                     "endOffset": 16693
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 289,
                         "startColumn": 4,
@@ -1001,7 +1001,7 @@
                     "endOffset": 16796
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 290,
                         "startColumn": 4,
@@ -1020,7 +1020,7 @@
                     "endOffset": 16901
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 291,
                         "startColumn": 4,
@@ -1039,7 +1039,7 @@
                     "endOffset": 16981
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 292,
                         "startColumn": 4,
@@ -1058,7 +1058,7 @@
                     "endOffset": 17067
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 293,
                         "startColumn": 4,
@@ -1077,7 +1077,7 @@
                     "endOffset": 17163
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 294,
                         "startColumn": 4,
@@ -1096,7 +1096,7 @@
                     "endOffset": 17312
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 295,
                         "startColumn": 4,
@@ -1115,7 +1115,7 @@
                     "endOffset": 17410
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 296,
                         "startColumn": 4,
@@ -1134,7 +1134,7 @@
                     "endOffset": 17556
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 297,
                         "startColumn": 4,
@@ -1153,7 +1153,7 @@
                     "endOffset": 17728
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1172,7 +1172,7 @@
                     "endOffset": 17876
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1191,7 +1191,7 @@
                     "endOffset": 18029
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1210,7 +1210,7 @@
                     "endOffset": 18144
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1229,7 +1229,7 @@
                     "endOffset": 18229
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1248,7 +1248,7 @@
                     "endOffset": 18318
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1267,7 +1267,7 @@
                     "endOffset": 18394
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1286,7 +1286,7 @@
                     "endOffset": 18485
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1305,7 +1305,7 @@
                     "endOffset": 18574
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1324,7 +1324,7 @@
                     "endOffset": 18688
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1343,7 +1343,7 @@
                     "endOffset": 18802
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1362,7 +1362,7 @@
                     "endOffset": 18891
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1381,7 +1381,7 @@
                     "endOffset": 18980
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1400,7 +1400,7 @@
                     "endOffset": 19088
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1419,7 +1419,7 @@
                     "endOffset": 19214
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1438,7 +1438,7 @@
                     "endOffset": 19296
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1457,7 +1457,7 @@
                     "endOffset": 19382
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1476,7 +1476,7 @@
                     "endOffset": 19578
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1495,7 +1495,7 @@
                     "endOffset": 19671
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1514,7 +1514,7 @@
                     "endOffset": 19774
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1533,7 +1533,7 @@
                     "endOffset": 19889
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1552,7 +1552,7 @@
                     "endOffset": 20005
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1571,7 +1571,7 @@
                     "endOffset": 20146
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-es-rES\\values-es-rES.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-es-rES/values-es-rES.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,

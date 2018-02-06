@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+        "outputFile": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 129
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\38f8b37d2d6de175c4a1599051cd41bea89bc295\\output\\res\\values-watch-v20\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/res/values-watch-v20/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -30,7 +30,7 @@
                     "endOffset": 209
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\38f8b37d2d6de175c4a1599051cd41bea89bc295\\output\\res\\values-watch-v20\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/res/values-watch-v20/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -49,7 +49,7 @@
                     "endOffset": 288
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\38f8b37d2d6de175c4a1599051cd41bea89bc295\\output\\res\\values-watch-v20\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/res/values-watch-v20/values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -68,7 +68,7 @@
                     "endOffset": 367
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\38f8b37d2d6de175c4a1599051cd41bea89bc295\\output\\res\\values-watch-v20\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/res/values-watch-v20/values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -87,7 +87,7 @@
                     "endOffset": 458
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\38f8b37d2d6de175c4a1599051cd41bea89bc295\\output\\res\\values-watch-v20\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/res/values-watch-v20/values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -106,7 +106,7 @@
                     "endOffset": 539
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\38f8b37d2d6de175c4a1599051cd41bea89bc295\\output\\res\\values-watch-v20\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/res/values-watch-v20/values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -125,7 +125,7 @@
                     "endOffset": 630
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\38f8b37d2d6de175c4a1599051cd41bea89bc295\\output\\res\\values-watch-v20\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/res/values-watch-v20/values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -144,7 +144,7 @@
                     "endOffset": 710
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\38f8b37d2d6de175c4a1599051cd41bea89bc295\\output\\res\\values-watch-v20\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/res/values-watch-v20/values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,

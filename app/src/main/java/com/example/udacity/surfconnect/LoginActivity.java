@@ -3,16 +3,22 @@ package com.example.udacity.surfconnect;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.facebook.CallbackManager;
+import com.facebook.FacebookCallback;
+import com.facebook.FacebookException;
 import com.facebook.accountkit.AccessToken;
 import com.facebook.accountkit.AccountKit;
 import com.facebook.accountkit.AccountKitLoginResult;
 import com.facebook.accountkit.ui.AccountKitActivity;
 import com.facebook.accountkit.ui.AccountKitConfiguration;
 import com.facebook.accountkit.ui.LoginType;
+import com.facebook.login.LoginResult;
+import com.facebook.login.widget.LoginButton;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -20,11 +26,39 @@ public class LoginActivity extends AppCompatActivity {
 
     private Button loginPhone;
     private Button loginEmail;
+    private LoginButton loginButton;
+    CallbackManager callbackManager;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         FontHelper.setCustomTypeface(findViewById(R.id.view_root));
+
+        loginButton = findViewById(R.id.facebook_login_button);
+        loginButton.setReadPermissions("email");
+
+
+        callbackManager = CallbackManager.Factory.create();
+        loginButton.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
+            @Override
+            public void onSuccess(LoginResult loginResult) {
+               launchAccountActivity();
+            }
+
+            @Override
+            public void onCancel() {
+
+            }
+
+            @Override
+            public void onError(FacebookException error) {
+                String toastMessage = error.getMessage();
+                Toast.makeText(LoginActivity.this, toastMessage, Toast.LENGTH_SHORT).show();
+                Log.e("log",toastMessage);
+
+            }
+        });
+//        8j0VnJrWNE8RCu9qTEEfUygmK8E=
 
         loginPhone = findViewById(R.id.phone_login_button);
         loginPhone.setOnClickListener(new View.OnClickListener() {
@@ -43,7 +77,8 @@ public class LoginActivity extends AppCompatActivity {
         });
 
         AccessToken accessToken = AccountKit.getCurrentAccessToken();
-        if(accessToken != null){
+        com.facebook.AccessToken facebookToken = com.facebook.AccessToken.getCurrentAccessToken();
+        if(accessToken != null || facebookToken != null){
             launchAccountActivity();
         }
     }
@@ -51,6 +86,7 @@ public class LoginActivity extends AppCompatActivity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
+        callbackManager.onActivityResult(requestCode,resultCode,data);
 
         if(requestCode == APP_REQUEST_CODE){
             AccountKitLoginResult loginResult = data.getParcelableExtra(AccountKitLoginResult.RESULT_KEY);

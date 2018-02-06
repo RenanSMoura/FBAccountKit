@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
+        "outputFile": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 9138
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 9242
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 9342
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 9448
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 9533
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 9636
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 9754
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 9830
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 9907
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 9988
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 10095
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 10198
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 10295
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 10403
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 10505
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -298,7 +298,7 @@
                     "endOffset": 10607
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -317,7 +317,7 @@
                     "endOffset": 10761
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -336,7 +336,7 @@
                     "endOffset": 10859
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 10961
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 239,
                         "startColumn": 4,
@@ -374,7 +374,7 @@
                     "endOffset": 11046
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -393,7 +393,7 @@
                     "endOffset": 11130
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -412,7 +412,7 @@
                     "endOffset": 11217
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 242,
                         "startColumn": 4,
@@ -431,7 +431,7 @@
                     "endOffset": 11295
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 243,
                         "startColumn": 4,
@@ -450,7 +450,7 @@
                     "endOffset": 11378
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 244,
                         "startColumn": 4,
@@ -469,7 +469,7 @@
                     "endOffset": 11459
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 245,
                         "startColumn": 4,
@@ -488,7 +488,7 @@
                     "endOffset": 11565
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 246,
                         "startColumn": 4,
@@ -507,7 +507,7 @@
                     "endOffset": 11658
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 247,
                         "startColumn": 4,
@@ -526,7 +526,7 @@
                     "endOffset": 11736
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 248,
                         "startColumn": 4,
@@ -545,7 +545,7 @@
                     "endOffset": 11836
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 249,
                         "startColumn": 4,
@@ -564,7 +564,7 @@
                     "endOffset": 11960
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 250,
                         "startColumn": 4,
@@ -583,7 +583,7 @@
                     "endOffset": 12116
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -602,7 +602,7 @@
                     "endOffset": 12224
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 12361
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 253,
                         "startColumn": 4,
@@ -640,7 +640,7 @@
                     "endOffset": 12440
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 254,
                         "startColumn": 4,
@@ -659,7 +659,7 @@
                     "endOffset": 12531
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 255,
                         "startColumn": 4,
@@ -678,7 +678,7 @@
                     "endOffset": 12613
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 256,
                         "startColumn": 4,
@@ -697,7 +697,7 @@
                     "endOffset": 12704
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 257,
                         "startColumn": 4,
@@ -716,7 +716,7 @@
                     "endOffset": 12810
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 258,
                         "startColumn": 4,
@@ -735,7 +735,7 @@
                     "endOffset": 13048
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 259,
                         "startColumn": 4,
@@ -754,7 +754,7 @@
                     "endOffset": 13361
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 260,
                         "startColumn": 4,
@@ -773,7 +773,7 @@
                     "endOffset": 13725
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 261,
                         "startColumn": 4,
@@ -792,7 +792,7 @@
                     "endOffset": 14187
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 262,
                         "startColumn": 4,
@@ -811,7 +811,7 @@
                     "endOffset": 14605
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 263,
                         "startColumn": 4,
@@ -830,7 +830,7 @@
                     "endOffset": 14941
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 264,
                         "startColumn": 4,
@@ -849,7 +849,7 @@
                     "endOffset": 15054
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 265,
                         "startColumn": 4,
@@ -868,7 +868,7 @@
                     "endOffset": 15155
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 266,
                         "startColumn": 4,
@@ -887,7 +887,7 @@
                     "endOffset": 15270
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 267,
                         "startColumn": 4,
@@ -906,7 +906,7 @@
                     "endOffset": 15382
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 268,
                         "startColumn": 4,
@@ -925,7 +925,7 @@
                     "endOffset": 15490
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 269,
                         "startColumn": 4,
@@ -944,7 +944,7 @@
                     "endOffset": 15802
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 270,
                         "startColumn": 4,
@@ -963,7 +963,7 @@
                     "endOffset": 15903
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 271,
                         "startColumn": 4,
@@ -982,7 +982,7 @@
                     "endOffset": 15999
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 272,
                         "startColumn": 4,
@@ -1001,7 +1001,7 @@
                     "endOffset": 16124
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 273,
                         "startColumn": 4,
@@ -1020,7 +1020,7 @@
                     "endOffset": 16247
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 274,
                         "startColumn": 4,
@@ -1039,7 +1039,7 @@
                     "endOffset": 16378
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 275,
                         "startColumn": 4,
@@ -1058,7 +1058,7 @@
                     "endOffset": 16497
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 276,
                         "startColumn": 4,
@@ -1077,7 +1077,7 @@
                     "endOffset": 16587
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 277,
                         "startColumn": 4,
@@ -1096,7 +1096,7 @@
                     "endOffset": 16704
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 278,
                         "startColumn": 4,
@@ -1115,7 +1115,7 @@
                     "endOffset": 16827
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 279,
                         "startColumn": 4,
@@ -1134,7 +1134,7 @@
                     "endOffset": 16930
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 280,
                         "startColumn": 4,
@@ -1153,7 +1153,7 @@
                     "endOffset": 17041
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 281,
                         "startColumn": 4,
@@ -1172,7 +1172,7 @@
                     "endOffset": 17428
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 282,
                         "startColumn": 4,
@@ -1191,7 +1191,7 @@
                     "endOffset": 17532
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 283,
                         "startColumn": 4,
@@ -1210,7 +1210,7 @@
                     "endOffset": 17653
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 284,
                         "startColumn": 4,
@@ -1229,7 +1229,7 @@
                     "endOffset": 17763
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 285,
                         "startColumn": 4,
@@ -1248,7 +1248,7 @@
                     "endOffset": 17860
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 286,
                         "startColumn": 4,
@@ -1267,7 +1267,7 @@
                     "endOffset": 17955
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 287,
                         "startColumn": 4,
@@ -1286,7 +1286,7 @@
                     "endOffset": 18068
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 288,
                         "startColumn": 4,
@@ -1305,7 +1305,7 @@
                     "endOffset": 18171
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 289,
                         "startColumn": 4,
@@ -1324,7 +1324,7 @@
                     "endOffset": 18251
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 290,
                         "startColumn": 4,
@@ -1343,7 +1343,7 @@
                     "endOffset": 18338
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 291,
                         "startColumn": 4,
@@ -1362,7 +1362,7 @@
                     "endOffset": 18429
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 292,
                         "startColumn": 4,
@@ -1381,7 +1381,7 @@
                     "endOffset": 18580
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 293,
                         "startColumn": 4,
@@ -1400,7 +1400,7 @@
                     "endOffset": 18679
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 294,
                         "startColumn": 4,
@@ -1419,7 +1419,7 @@
                     "endOffset": 18806
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 295,
                         "startColumn": 4,
@@ -1438,7 +1438,7 @@
                     "endOffset": 18973
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1457,7 +1457,7 @@
                     "endOffset": 19107
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1476,7 +1476,7 @@
                     "endOffset": 19246
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1495,7 +1495,7 @@
                     "endOffset": 19357
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1514,7 +1514,7 @@
                     "endOffset": 19441
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1533,7 +1533,7 @@
                     "endOffset": 19529
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1552,7 +1552,7 @@
                     "endOffset": 19607
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1571,7 +1571,7 @@
                     "endOffset": 19700
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1590,7 +1590,7 @@
                     "endOffset": 19792
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1609,7 +1609,7 @@
                     "endOffset": 19907
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1628,7 +1628,7 @@
                     "endOffset": 20016
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1647,7 +1647,7 @@
                     "endOffset": 20109
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1666,7 +1666,7 @@
                     "endOffset": 20202
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1685,7 +1685,7 @@
                     "endOffset": 20302
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1704,7 +1704,7 @@
                     "endOffset": 20418
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1723,7 +1723,7 @@
                     "endOffset": 20499
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1742,7 +1742,7 @@
                     "endOffset": 20580
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1761,7 +1761,7 @@
                     "endOffset": 20769
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1780,7 +1780,7 @@
                     "endOffset": 20863
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1799,7 +1799,7 @@
                     "endOffset": 20965
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1818,7 +1818,7 @@
                     "endOffset": 21079
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1837,7 +1837,7 @@
                     "endOffset": 21188
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1856,7 +1856,7 @@
                     "endOffset": 21331
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\a9cd6cca6a04bd159b32968cdf62b203ec44c1af\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/c8934cdb3d1d6f99d89a6497c190eb14662d6edb/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1875,7 +1875,7 @@
                     "endOffset": 21440
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -1894,7 +1894,7 @@
                     "endOffset": 21628
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -1913,7 +1913,7 @@
                     "endOffset": 21756
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -1932,7 +1932,7 @@
                     "endOffset": 21868
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -1951,7 +1951,7 @@
                     "endOffset": 22077
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -1970,7 +1970,7 @@
                     "endOffset": 22201
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -1989,7 +1989,7 @@
                     "endOffset": 22352
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -2008,7 +2008,7 @@
                     "endOffset": 22483
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -2027,7 +2027,7 @@
                     "endOffset": 22685
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\5b65fc11ab7d05ecadb7ed91b8eb1b968d0a9638\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/66d3f3fd22804accf7117b1c62c20cdb7134df81/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -2046,7 +2046,7 @@
                     "endOffset": 22910
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -2065,7 +2065,7 @@
                     "endOffset": 23020
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -2084,7 +2084,7 @@
                     "endOffset": 23208
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 0,
@@ -2103,7 +2103,7 @@
                     "endOffset": 23337
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 0,
@@ -2122,7 +2122,7 @@
                     "endOffset": 23535
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 0,
@@ -2141,7 +2141,7 @@
                     "endOffset": 23719
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
@@ -2160,7 +2160,7 @@
                     "endOffset": 23815
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
@@ -2179,7 +2179,7 @@
                     "endOffset": 23908
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
@@ -2198,7 +2198,7 @@
                     "endOffset": 24016
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\bf951ef78b16a26d42f2e8208819ac1423fb6aaa\\output\\res\\values-af\\values.xml",
+                    "file": "/Users/renan/.android/build-cache/ab18cacc136486e2125c2f56f6f7d763378eeb79/output/res/values-af/values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 0,
@@ -2217,7 +2217,7 @@
                     "endOffset": 24096
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -2236,7 +2236,7 @@
                     "endOffset": 24197
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\77f3ff4091a2881a4690c8d4ed5c6a20e95021c3\\output\\res\\values-af\\values-af.xml",
+                    "file": "/Users/renan/.android/build-cache/84b5543064cb7c4d7f0cb2edeca230cae1e63e3f/output/res/values-af/values-af.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

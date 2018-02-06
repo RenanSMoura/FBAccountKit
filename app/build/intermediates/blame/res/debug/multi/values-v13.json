@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "outputFile": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\values-v13\\values-v13.xml",
+                    "file": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/values-v13/values-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

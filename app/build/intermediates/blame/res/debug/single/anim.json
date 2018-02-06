@@ -1,82 +1,82 @@
 [
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\db765f6a06229332f2099c218d951b93cf65991b\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\tooltip_exit.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/com_accountkit_progress_complete_circle_anim.xml",
+        "source": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/anim/com_accountkit_progress_complete_circle_anim.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\com_accountkit_progress_complete_check_anim.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\anim\\com_accountkit_progress_complete_check_anim.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\db765f6a06229332f2099c218d951b93cf65991b\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/res/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\db765f6a06229332f2099c218d951b93cf65991b\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/tooltip_exit.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/res/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\db765f6a06229332f2099c218d951b93cf65991b\\output\\res\\anim\\design_fab_out.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\tooltip_enter.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/res/anim/design_fab_in.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\db765f6a06229332f2099c218d951b93cf65991b\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/res/anim/design_fab_out.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\com_accountkit_progress_complete_circle_anim.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\dbd347e58881e74cab16a1074aad4a50fb11c5a0\\output\\res\\anim\\com_accountkit_progress_complete_circle_anim.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\db765f6a06229332f2099c218d951b93cf65991b\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/com_accountkit_progress_complete_check_anim.xml",
+        "source": "/Users/renan/.android/build-cache/bbed926978673b114c8f477cc3332da880336e49/output/res/anim/com_accountkit_progress_complete_check_anim.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/renan/.android/build-cache/45671e1acb6254f20efd205c1012f217dfa055aa/output/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/tooltip_enter.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\574f40ac9c497147abebaad0386c8644a68ac4ab\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/renan/.android/build-cache/ea86a42d1e45dbea1c0d5f6935ba55a5c009de7a/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     }
 ]

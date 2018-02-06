@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Renan\workspace\FBAccountKit\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6641be93a9c24b8858aa7add3431051d059e4ef">
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_75a6dd5c42ec29210f8c583bde2708f9a1b6577b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
-        <dex dex="C:\Users\Renan\workspace\FBAccountKit\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2b71eb15cd8fef77456a7279000c23072488ed7a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Renan\workspace\FBAccountKit\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="4f9e6e204ef1656d8c0e4d3b27319d56bfda9bfe">
-        <dex dex="C:\Users\Renan\workspace\FBAccountKit\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d3db02fc1e21e24c57cc25d0314ca0e5bdcbf7bc\classes.dex" />
+        <dex dex="/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a01bf4b8cec739a99f2698568d8d6fe7893e1bb9/classes.dex" />
     </item>
 
 </items>

@@ -12,6 +12,7 @@ import com.facebook.accountkit.Account;
 import com.facebook.accountkit.AccountKit;
 import com.facebook.accountkit.AccountKitCallback;
 import com.facebook.accountkit.AccountKitError;
+import com.facebook.login.LoginManager;
 import com.google.i18n.phonenumbers.NumberParseException;
 import com.google.i18n.phonenumbers.PhoneNumberUtil;
 import com.google.i18n.phonenumbers.Phonenumber;
@@ -61,13 +62,14 @@ public class AccountActivity extends AppCompatActivity {
 
             @Override
             public void onError(AccountKitError accountKitError) {
-                Toast.makeText(AccountActivity.this, accountKitError.getErrorType().getCode(), Toast.LENGTH_SHORT).show();
+                Toast.makeText(AccountActivity.this, accountKitError.getErrorType().getMessage(), Toast.LENGTH_SHORT).show();
             }
         });
     }
 
     public void onLogout(View view){
         AccountKit.logOut();
+        LoginManager.getInstance().logOut();
         launchLoginActivity();
     }
 

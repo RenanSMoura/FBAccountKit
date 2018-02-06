@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\38f8b37d2d6de175c4a1599051cd41bea89bc295\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\38f8b37d2d6de175c4a1599051cd41bea89bc295\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "C:\\Users\\Renan\\workspace\\FBAccountKit\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\Renan\\.android\\build-cache\\38f8b37d2d6de175c4a1599051cd41bea89bc295\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+        "merged": "/Users/renan/Applications/Projects/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/renan/.android/build-cache/aafce820a8dcf56f720191c4687ab3de4098003d/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
     }
 ]

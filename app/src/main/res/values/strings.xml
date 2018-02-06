@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">SurfConnect</string>
     <string name="login_email_label">Login with Email</string>
     <string name="login_phone_label">Login with Phone Number</string>
     <string name="account">Account</string>
@@ -7,7 +6,9 @@
     <string name="phone_label">Phone Number</string>
     <string name="email_label">Email</string>
     <string name="logout_label">Log Out</string>
+    <string name="app_name">SurfConnect</string>
     <string name="FACEBOOK_APP_ID">180952545969167</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">f0ecbd01bd54b107ea255e2b46311b60</string>
     <string name="ak_login_protocol_scheme">ak180952545969167</string>
-    <string name="ACCOUNT_KIT_CLIENT_TOKEN">cd1cc21be719538d0f9a5606de776473</string>
+    <string name="fb_login_protocol_scheme">fb180952545969167</string>
 </resources>
